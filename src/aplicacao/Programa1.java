@@ -35,6 +35,8 @@ public class Programa1 {
 			}
 			System.out.println();
 		}
+		
+		sc.close();
 	}
 }
 

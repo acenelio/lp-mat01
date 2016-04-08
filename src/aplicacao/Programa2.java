@@ -45,7 +45,7 @@ public class Programa2 {
 		}
 		System.out.println("Soma da "+C+"ª coluna: "+soma);
 		
-		
+		sc.close();
 	}
 }
 
